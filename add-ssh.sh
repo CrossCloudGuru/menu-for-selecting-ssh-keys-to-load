@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Author: Marco Tijbout - CrossCloud.Guru
-# License: GPL v2.0
+# License: GNU GPL v2.0
 # Version: 1
 
 SOURCE_DIR="${HOME}/.ssh"
